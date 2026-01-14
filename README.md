@@ -78,9 +78,7 @@ This ensures predictable rendering and component reusability.
 
 ---
 
-## UI Implementation (Reference Design)
-
-Paste the following in **App.js**:
+**App.js**:
 
 ```javascript
 import React, { useState } from 'react';
